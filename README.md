@@ -6,6 +6,7 @@ MD5-Crack es una herramienta creada con python para romper hashes MD5 mediante e
 > Nota: Es necesario tener instalado `git y python3`
 ```bash
 git clone https://github.com/Xig0n/MD5-Crack.git
+cd MD5-Crack
 chmod 754 md5-crack.py
 python3 md5-crack.py
 ```
