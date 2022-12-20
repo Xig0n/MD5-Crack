@@ -1,6 +1,7 @@
 # MD5 CRACK 
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)
-MD5-Crack es una herramienta creada con python para romper hashes MD5 mediante el uso de una wordlist.
+- MD5-Crack es una herramienta creada con python para romper hashes MD5 mediante el uso de una wordlist.
+
 ![Logo](./img/logo.png)
 ## Instalacion:
 > Nota: Es necesario tener instalado `git y python3`
